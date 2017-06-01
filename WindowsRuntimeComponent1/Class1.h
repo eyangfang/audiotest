@@ -6,5 +6,6 @@ namespace WindowsRuntimeComponent1
     {
     public:
         Class1();
+		void test();
     };
 }
